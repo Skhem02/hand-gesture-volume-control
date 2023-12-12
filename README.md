@@ -34,13 +34,8 @@ This Python script uses OpenCV and Mediapipe to detect hand gestures and control
 
    ```bash
    git clone https://github.com/Skhem02/hand-gesture-volume-control.git
+
 ## Install the required packages:
 
    ```bash
   pip install opencv-python mediapipe numpy pycaw
-
-## Usage:
-
-- Run the script:
-   ```bash
-   python hand_volume_control.py
